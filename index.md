@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Here you will find information about the different classes & specs available in TBC.  Please be aware that as of now, classic TBC hasn't been officially announced, and everything here is speculative based on what most people expect blizzard to release if they release classic TBC.
 
-You can use the [editor on GitHub](https://github.com/westlakem/tbc-classic-class-choice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This guide will help you determine what class & spec you want to play based on your playstyle.  As you walk through this guide, everything will be ranked on a scale of 1-5 on Desirability and Skill Required across multiple aspects of the game, as well as Leveling Difficulty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/westlakem/tbc-classic-class-choice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Just because something is rated a 1, doesn't mean it's bad (and when it is it should be apparent).  For example, if you're just starting into MMOs (or are just a lazy player) and want an easy class to play, having something with a difficulty ranking of 1 will allow you to get used to the game mechanics without overloading yourself.  When you're ready to hear about the different classes / specs of TBC, start by clicking the role you wish to learn more about to the left.
