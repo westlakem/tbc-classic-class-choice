@@ -15,7 +15,10 @@
 
   <body>
     <div id="container">
-      <div class="inner">
+      <div style="display: flex; flex-direction: row">
+        <div style="flex: 1"></div>
+        <div id="nav">Nav Content Goes Here</div>
+        <div class="inner">
 
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -47,6 +50,9 @@
         </footer>
 
       </div>
+      <div style="flex: 1"></div>
+      </div>
+      
     </div>
 
     {% if site.google_analytics %}
