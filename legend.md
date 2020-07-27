@@ -6,7 +6,7 @@ permalink: /legend/
 All ratings will be on a 1-5 rating.  Just because something is rated a 1, doesn’t mean it’s “bad” or something you should stay away from, and might be the perfect class for you.  All ratings are based off of a 25 character raid makeup, and used as a distinguishing metric between the different classes / specs.
 
 ### Desirability – How much you're needed
-  1.	Not really desired to be in a raid.  One spot generally saved because they feel bad for this class or are needed in niche situations.
+  1.	Not really desired to be in a raid.  One spot generally saved because they feel bad for them or are needed in niche situations.
   2.	One spot generally reserved for the utility they bring to the raid.
   3.	One of these is needed in every raid, but only 1.
   4.	Multiple of these are desired in every raid
