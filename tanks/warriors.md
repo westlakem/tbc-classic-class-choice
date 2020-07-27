@@ -7,7 +7,7 @@ The fierce defenders of the world.  This isn't your WOW Classic expansion, but i
 
 ### Ratings
 __Dungion Desirability - 2/5__<br>
-Every dungeon needs a tank, but honestly you'll be the last on their list.  People prefer paladin tanks, and would even prefer a druid tank over a warrior.  It's not the warriors can't do it, it's just that the rest of the group doesn't get to sleep and mash AOE while clearing the place.
+Every dungeon needs a tank, but honestly you'll be the last on their list.  People prefer paladin tanks, and would even prefer a druid tank over a warrior.  It's not the warriors can't do it, it's just that the rest of the group doesn't get to sleep and mash AOE while clearing the place. (this changes with a thunderfury)
 
 __Raid Desirability - 3/5__<br>
 Every 25 man raid needs 1 of these, but only one.  Warrior tanks are not the end-all be-all tanks that everyone remembers from classic wow.  You will be called on to tank many raid bosses, especially those that you can spell reflect or need a big defensive cooldown on (shield wall).  You also start off being the only tank that cannot be crushed, and therefore are very powerful early on in the expansion.

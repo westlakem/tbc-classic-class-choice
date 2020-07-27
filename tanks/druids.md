@@ -3,7 +3,6 @@ permalink: /tanks/druid
 ---
 
 ## Druid Tanks
-The most versatile tanks, Jack of all trades, able to out threat all other tanks, and with the press of a button, switch to doing the highest DPS of all the tanks.
 
 ### Ratings
 __Dungion Desirability - 4/5__<br>
