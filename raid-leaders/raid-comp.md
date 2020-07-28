@@ -7,7 +7,7 @@ permalink: /raid/comp
 Raid compositions play a bigger part in TBC than they did in classic.  Instead of relying on world buffs, the difference between a prepared raid and one just slapped together is going to be raid composition.  As a raid leader, it is your job to make sure you have a group who's buffs synogize with each other, to get the best bang from the buck out of all your members.  Below I have 2 different raid compositions, one for hardcore guilds that will be looking to optimize everything they can, and one for a more casual guild that leaves room for characters that would otherwise be left out of the raids.  Please note that there is no 100% perfect raid comp in TBC, as there are not enough slots in a 25 man raid group to get all the buffs.  Take these compositions with a grain of salt, and adjust for your raid team.
 
 
-### Casual
+#### Casual
 https://raidcomp.mmo-champion.com/?c=uskfned6go5779oqqp4mibeho000000000000000
 
 In this composition, we have the following:
@@ -20,7 +20,7 @@ In this composition, we have the following:
 This is what I believe to be the most flexible 25 man raid setup, where you can be prepared for anything (including a tank missing a raid).
 
 
-### Hardcore
+#### Hardcore
 https://raidcomp.mmo-champion.com/?c=uf95ned6go5777oqqq4mibpho000000000000000
 
 In this composition, we have the following:
