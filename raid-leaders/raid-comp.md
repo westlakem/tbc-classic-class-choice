@@ -29,4 +29,4 @@ In this composition, we have the following:
 * 1.5 caster groups
 * 1.5 ranged groups
 
-This build removes all melee dps except for feral druids (used to buff the hunters & to tank), and a ret paladin (to keep judgements on the boss at all times).  This is due to many fights in TBC not being melee friendly, and limiting the time melee can actually attack the boss.
+This build removes all melee dps except for feral druids (used to buff the hunters & to tank), and a ret paladin (to keep judgements on the boss at all times).  This is due to many fights in TBC not being melee friendly, and limiting the time melee can actually attack the boss.  It has also been known for resto shamans & elemental shamans to multi-role, flexing as the fight demands more or less healing.

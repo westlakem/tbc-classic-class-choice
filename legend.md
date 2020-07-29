@@ -16,11 +16,11 @@ All ratings will be on a 1-5 rating.  Just because something is rated a 1, doesn
   2.	Mostly spam one button or needs to be somewhat raid aware
   3.	Has a simple rotation or needs to be raid aware
   4.	Has a complex rotation or doing different things based on the raid
-  5.	Has a complex rotation and needs to be doing different things based on the raid
+  5.	Has a complex rotation and needs to be doing different things based on the raid situation
 ###	Skill to master – Same as above, except to stand out from the crowd.
 ### Leveling Experience - how easy is it to level to 70
   1. It sucks... No way around it
   2. It's a slow crawl, but doable
-  3. It's doable, but nothing to write home about
+  3. Average, nothing to write home about
   4. A walk in the park, nothing can slow you down
   5. Ez-Pz

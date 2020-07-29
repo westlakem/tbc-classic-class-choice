@@ -4,6 +4,8 @@ permalink: /tanks/druid
 
 ## Druid Tanks
 
+Able to shift roles with the press of a button, Druids are the most versatile class in the game.  Armed with the spirit of a bear, you have the highest health and armor in the game, but that doesn't always mean you're the best tank.  You also provide a crit buff, to all physical DPS in your group.
+
 ### Ratings
 #### Dungion Desirability - 4/5
 Every dungeon needs a tank, and while paladins are more desirable, druids handle dungeons just fine.  You also have the benefit of being able to tank or dps dungeons, increasing the likelyhood of getting a spot.
